@@ -15,8 +15,9 @@ import facebookLogo from '../../public/facebook.png'
 
 export default function Home() {
   const professions = [
-    'AI Enthusiast',
-    'Machine Learning Engineer',
+    'Java Developer ',
+    'Web Applocation Developer ',
+    'Android Application Developer ',
     "Deep Learning Expert",
     'Computer Vision Researcher',
     'Developer',
@@ -90,7 +91,7 @@ export default function Home() {
           </h1>
 
           {/* Typing Animated Text */}
-          <p className="typing-effect">Java Application Developer | Backend Developer | Frontend Developer</p>
+          <p className="typing-effect">Java Full Stack Developer | Backend Developer | Frontend Developer</p>
 
           {/* Profession Tags */}
           <motion.div className="profession-tags">
